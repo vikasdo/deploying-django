@@ -14,3 +14,4 @@ This app uses Django 1.11, Python 3.5, and PostgreSQL 9.6.
 - Complete steps 1 & 2 in [this post](https://medium.com/@eleanorstrib/painless-postgresql-django-d4f03364989)
 - Create environment variables for the database credentials and source them correctly in the settings.py file
 - Migrate as shown in step 4 in [this post](https://medium.com/@eleanorstrib/painless-postgresql-django-d4f03364989)
+[![Run on Repl.it](https://repl.it/badge/github/eleanorstrib/deploying-django)](https://repl.it/github/eleanorstrib/deploying-django)
